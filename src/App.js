@@ -179,6 +179,7 @@ function App() {
 
         <Route path="/admin" element={<AdminPage />}>
           {/* ----daud---route--start-- Hospital----*/}
+          {/* junaid work */}
 
           {/* ---dashboard--- */}
           <Route path="dashboard" element={<DashboardPage />} />
